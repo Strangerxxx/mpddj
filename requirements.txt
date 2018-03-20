@@ -1,0 +1,3 @@
+PyGObject
+python-musicpd
+python-telegram-bot
